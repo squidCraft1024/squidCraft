@@ -71,3 +71,42 @@
 [00:28:44] [Server thread/INFO]: Dejitaru_Davis left the game
 [00:44:08] [Server thread/INFO]: tofu6465 lost connection: Disconnected
 [00:44:08] [Server thread/INFO]: tofu6465 left the game
+[14:16:34] [User Authenticator #29/INFO]: UUID of player tofu6465 is 7bf2d348-fc1f-4a41-94e7-51036d1ec92a
+[14:16:35] [Server thread/INFO]: tofu6465[/75.132.169.76:61842] logged in with entity id 258248 at ([world]-163.25101213494918, 63.0, 206.27681645991925)
+[14:18:32] [Server thread/INFO]: tofu6465 lost connection: Disconnected
+[14:18:32] [Server thread/INFO]: tofu6465 left the game
+[14:21:04] [User Authenticator #30/INFO]: UUID of player tofu6465 is 7bf2d348-fc1f-4a41-94e7-51036d1ec92a
+[14:21:04] [Server thread/INFO]: tofu6465[/75.132.169.76:61956] logged in with entity id 258299 at ([world]-165.34493265607335, 63.0, 208.2290026642862)
+[14:26:53] [Server thread/INFO]: tofu6465 lost connection: Disconnected
+[14:26:53] [Server thread/INFO]: tofu6465 left the game
+[14:33:38] [User Authenticator #31/INFO]: UUID of player tofu6465 is 7bf2d348-fc1f-4a41-94e7-51036d1ec92a
+[14:33:38] [Server thread/INFO]: tofu6465[/75.132.169.76:62446] logged in with entity id 261450 at ([world]-20.11559459558103, 64.0, 506.84429889785997)
+[14:35:51] [Server thread/INFO]: tofu6465 was slain by Spider
+[15:22:06] [Server thread/WARN]: tofu6465 was kicked for floating too long!
+[15:22:06] [Server thread/INFO]: tofu6465 lost connection: Flying is not enabled on this server
+[15:22:06] [Server thread/INFO]: tofu6465 left the game
+[15:22:06] [Server thread/WARN]: handleDisconnection() called twice
+[15:22:13] [User Authenticator #32/INFO]: UUID of player tofu6465 is 7bf2d348-fc1f-4a41-94e7-51036d1ec92a
+[15:22:13] [Server thread/INFO]: tofu6465[/75.132.169.76:62504] logged in with entity id 273553 at ([world]57.5, 64.02159847259522, 478.5)
+[15:57:28] [Server thread/INFO]: tofu6465 lost connection: Disconnected
+[15:57:28] [Server thread/INFO]: tofu6465 left the game
+[17:01:16] [User Authenticator #33/INFO]: UUID of player Dejitaru_Davis is 496c3594-d608-4034-a0d9-3c25d04ee08a
+[17:01:16] [Server thread/INFO]: Dejitaru_Davis[/75.132.211.32:63524] logged in with entity id 277554 at ([world]-131.20481739659084, 63.5625, 44.125573599489314)
+[17:35:31] [User Authenticator #34/INFO]: UUID of player tofu6465 is 7bf2d348-fc1f-4a41-94e7-51036d1ec92a
+[17:35:31] [Server thread/INFO]: tofu6465[/75.132.169.76:62804] logged in with entity id 301976 at ([world]57.670825545857454, 64.0, 479.1763585150898)
+[18:08:51] [Async Chat Thread - #56/INFO]: <tofu6465> you near a bed?
+[18:20:22] [Server thread/INFO]: [WEB] 10.100.170.13: :O watermelon! :D
+[18:36:10] [User Authenticator #35/INFO]: UUID of player Duckmaster09 is 01529682-32c6-4239-bec9-ead0a1bf09fd
+[18:36:11] [Server thread/INFO]: Duckmaster09[/75.132.209.77:59493] logged in with entity id 317024 at ([world]-130.78442288538636, 12.0, 43.655538249915175)
+[18:36:20] [Async Chat Thread - #57/INFO]: <Duckmaster09> damn, someone's been exploring south
+[18:39:30] [Async Chat Thread - #58/INFO]: <Duckmaster09> you here, Ben?
+[18:39:35] [Async Chat Thread - #58/INFO]: <tofu6465> yea
+[18:40:03] [Async Chat Thread - #58/INFO]: <Duckmaster09> if you didn't see, we're going to eat at Red Robin in Edwardsville @ 7:30 and tehn watch Civil War
+[18:40:26] [Async Chat Thread - #58/INFO]: <tofu6465> you guys havent seen civil war yet?
+[18:40:40] [Async Chat Thread - #58/INFO]: <Duckmaster09> Kelsey and our friend Nikki haven't
+[18:40:55] [Async Chat Thread - #58/INFO]: <tofu6465> it was one of the best ones for me
+[18:41:00] [Async Chat Thread - #58/INFO]: <Duckmaster09> oh yea
+[18:41:24] [Async Chat Thread - #58/INFO]: <tofu6465> but taste is subjective. i know people who hated it
+[18:41:40] [Async Chat Thread - #58/INFO]: <tofu6465> i liked civil war better than avengers 2
+[18:45:44] [Server thread/INFO]: Duckmaster09 lost connection: Timed out
+[18:45:44] [Server thread/INFO]: Duckmaster09 left the game
