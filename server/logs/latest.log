@@ -8,3 +8,6 @@
 [08:41:53] [Server thread/INFO]: ubermensch1024 was shot by Skeleton
 [10:42:04] [Server thread/INFO]: ubermensch1024 lost connection: Disconnected
 [10:42:04] [Server thread/INFO]: ubermensch1024 left the game
+[11:19:02] [User Authenticator #50/INFO]: UUID of player tofu6465 is 7bf2d348-fc1f-4a41-94e7-51036d1ec92a
+[11:19:02] [Server thread/INFO]: tofu6465[/75.132.169.76:61953] logged in with entity id 692312 at ([world]57.46117715874052, 64.0, 482.8568888067558)
+[13:02:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@479c3337[id=<null>,name=ubermensch1024,properties={},legacy=false] (/127.0.0.1:65083) lost connection: Timed out
