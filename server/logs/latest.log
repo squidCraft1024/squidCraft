@@ -1,13 +1,167 @@
-[08:21:15] [User Authenticator #48/INFO]: UUID of player ubermensch1024 is 93b16a1b-b293-490a-8a7a-48a8fbf30f12
-[08:21:15] [Server thread/INFO]: ubermensch1024[/127.0.0.1:60999] logged in with entity id 618755 at ([world]-129.83527654691085, 12.0, 53.642116726197116)
-[08:30:13] [Server thread/INFO]: ubermensch1024 lost connection: Disconnected
-[08:30:13] [Server thread/INFO]: ubermensch1024 left the game
-[08:35:28] [User Authenticator #49/INFO]: UUID of player ubermensch1024 is 93b16a1b-b293-490a-8a7a-48a8fbf30f12
-[08:35:28] [Server thread/INFO]: ubermensch1024[/127.0.0.1:62774] logged in with entity id 627658 at ([world]-152.2656156935799, 20.0, -134.7303423648454)
-[08:36:15] [Server thread/INFO]: ubermensch1024 was shot by Skeleton
-[08:41:53] [Server thread/INFO]: ubermensch1024 was shot by Skeleton
-[10:42:04] [Server thread/INFO]: ubermensch1024 lost connection: Disconnected
-[10:42:04] [Server thread/INFO]: ubermensch1024 left the game
-[11:19:02] [User Authenticator #50/INFO]: UUID of player tofu6465 is 7bf2d348-fc1f-4a41-94e7-51036d1ec92a
-[11:19:02] [Server thread/INFO]: tofu6465[/75.132.169.76:61953] logged in with entity id 692312 at ([world]57.46117715874052, 64.0, 482.8568888067558)
-[13:02:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@479c3337[id=<null>,name=ubermensch1024,properties={},legacy=false] (/127.0.0.1:65083) lost connection: Timed out
+[13:07:57] [Server thread/INFO]: Starting minecraft server version 1.10.2
+[13:07:57] [Server thread/INFO]: Loading properties
+[13:07:57] [Server thread/INFO]: Default game type: SURVIVAL
+[13:07:58] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-570526c-c1b529e (MC: 1.10.2) (Implementing API version 1.10.2-R0.1-SNAPSHOT)
+[13:07:58] [Server thread/INFO]: Debug logging is disabled
+[13:07:58] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:07:58] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:07:58] [Server thread/INFO]: Generating keypair
+[13:07:58] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:07:58] [Server thread/INFO]: Using default channel type
+[13:07:58] [Server thread/INFO]: Set PluginClassLoader as parallel capable
+[13:07:58] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-1142
+[13:07:58] [Server thread/INFO]: [dynmap] version=git-Spigot-570526c-c1b529e (MC: 1.10.2)
+[13:07:58] [Server thread/INFO]: [dynmap] Mod Support API available
+[13:07:58] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[13:07:58] [Server thread/INFO]: Preparing level "world"
+[13:07:58] [Server thread/INFO]: -------- World Settings For [world] --------
+[13:07:58] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:07:58] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:07:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:07:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:07:58] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:07:58] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:07:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:07:58] [Server thread/INFO]: View Distance: 10
+[13:07:58] [Server thread/INFO]: Max Entity Collisions: 8
+[13:07:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:07:58] [Server thread/INFO]: Mob Spawn Range: 4
+[13:07:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:07:58] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:07:58] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:07:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:07:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:07:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:07:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:07:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:07:58] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:07:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:07:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:07:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:07:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:07:58] [Server thread/INFO]: Random Lighting Updates: false
+[13:07:58] [Server thread/INFO]: Structure Info Saving: true
+[13:07:58] [Server thread/INFO]: Max TNT Explosions: 100
+[13:07:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:07:59] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[13:07:59] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:07:59] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:07:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:07:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:07:59] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:07:59] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:07:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:07:59] [Server thread/INFO]: View Distance: 10
+[13:07:59] [Server thread/INFO]: Max Entity Collisions: 8
+[13:07:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:07:59] [Server thread/INFO]: Mob Spawn Range: 4
+[13:07:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:07:59] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:07:59] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:07:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:07:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:07:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:07:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:07:59] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:07:59] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:07:59] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:07:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:07:59] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:07:59] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:07:59] [Server thread/INFO]: Random Lighting Updates: false
+[13:07:59] [Server thread/INFO]: Structure Info Saving: true
+[13:07:59] [Server thread/INFO]: Max TNT Explosions: 100
+[13:07:59] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:07:59] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[13:07:59] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:07:59] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:07:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:07:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:07:59] [Server thread/INFO]: Arrow Despawn Rate: 1200
+[13:07:59] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:07:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:07:59] [Server thread/INFO]: View Distance: 10
+[13:07:59] [Server thread/INFO]: Max Entity Collisions: 8
+[13:07:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[13:07:59] [Server thread/INFO]: Mob Spawn Range: 4
+[13:07:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:07:59] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:07:59] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:07:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:07:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:07:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:07:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:07:59] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:07:59] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:07:59] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:07:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:07:59] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[13:07:59] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[13:07:59] [Server thread/INFO]: Random Lighting Updates: false
+[13:07:59] [Server thread/INFO]: Structure Info Saving: true
+[13:07:59] [Server thread/INFO]: Max TNT Explosions: 100
+[13:07:59] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:07:59] [Server thread/INFO]: Preparing start region for level 0 (Seed: -2456426321376412881)
+[13:08:00] [Server thread/INFO]: Preparing spawn area: 35%
+[13:08:00] [Server thread/INFO]: Preparing start region for level 1 (Seed: -8316523345067563926)
+[13:08:01] [Server thread/INFO]: Preparing spawn area: 91%
+[13:08:01] [Server thread/INFO]: Preparing start region for level 2 (Seed: -8316523345067563926)
+[13:08:02] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-1142
+[13:08:02] [Server thread/INFO]: [dynmap] Added 1 custom biome mappings
+[13:08:02] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
+[13:08:02] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
+[13:08:02] [Server thread/INFO]: [dynmap] Mod Support processing completed
+[13:08:03] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
+[13:08:03] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
+[13:08:03] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
+[13:08:03] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
+[13:08:03] [Server thread/INFO]: [dynmap] version 2.3-1142 is enabled - core version 2.3-2074
+[13:08:03] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
+[13:08:03] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
+[13:08:03] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
+[13:08:03] [Server thread/INFO]: [dynmap] Enabled
+[13:08:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:08:03] [Server thread/INFO]: Done (4.695s)! For help, type "help" or "?"
+[13:08:11] [User Authenticator #1/INFO]: UUID of player ubermensch1024 is 93b16a1b-b293-490a-8a7a-48a8fbf30f12
+[13:08:11] [Server thread/INFO]: ubermensch1024[/127.0.0.1:49853] logged in with entity id 270 at ([world]-127.72190939173987, 12.0, 47.60788241769004)
+[13:09:09] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[13:10:26] [User Authenticator #2/INFO]: UUID of player tofu6465 is 7bf2d348-fc1f-4a41-94e7-51036d1ec92a
+[13:10:27] [Server thread/INFO]: tofu6465[/75.132.169.76:62383] logged in with entity id 2427 at ([world]-4.672017133411668, 44.0, 911.934802354673)
+[15:13:36] [Server thread/INFO]: tofu6465 has just earned the achievement [We Need to Go Deeper]
+[15:13:39] [Server thread/WARN]: tofu6465 moved too quickly! -81.55373768393773,-3.0,-422.4725985924276
+[15:28:06] [Server thread/INFO]: tofu6465 has just earned the achievement [Return to Sender]
+[15:33:15] [Server thread/WARN]: tofu6465 moved too quickly! 81.6192332667761,3.0,422.1862661565241
+[15:33:38] [Server thread/INFO]: tofu6465 lost connection: Disconnected
+[15:33:38] [Server thread/INFO]: tofu6465 left the game
+[16:40:38] [Server thread/INFO]: ubermensch1024 lost connection: Disconnected
+[16:40:38] [Server thread/INFO]: ubermensch1024 left the game
+[17:06:12] [User Authenticator #3/INFO]: UUID of player tofu6465 is 7bf2d348-fc1f-4a41-94e7-51036d1ec92a
+[17:06:12] [Server thread/INFO]: tofu6465[/75.132.169.76:63816] logged in with entity id 57494 at ([world]59.30142865912617, 64.0, 486.4095939636838)
+[17:07:35] [Server thread/WARN]: tofu6465 moved too quickly! -81.02359519890666,-3.0,-422.7372311995303
+[17:24:40] [Server thread/INFO]: tofu6465 was slain by Zombie
+[17:26:21] [Server thread/WARN]: tofu6465 moved too quickly! -81.13452012471731,-3.0,-422.53031491601826
+[17:28:10] [Server thread/WARN]: tofu6465 moved too quickly! 81.52659429072449,3.0,422.274921852509
+[17:31:54] [Server thread/WARN]: tofu6465 moved too quickly! -81.44134665567705,-3.0,-422.2015925826761
+[17:37:02] [Server thread/INFO]: tofu6465 tried to swim in lava to escape Zombie
+[17:46:31] [Server thread/WARN]: tofu6465 moved wrongly!
+[17:47:16] [Server thread/WARN]: tofu6465 moved wrongly!
+[18:08:56] [Server thread/WARN]: tofu6465 moved too quickly! -81.14633150194453,-3.0,-422.51836903239473
+[18:10:16] [Server thread/WARN]: tofu6465 moved too quickly! 81.8047660229702,3.0,422.29712298255305
+[18:10:29] [Server thread/WARN]: tofu6465 moved too quickly! -81.25336837691627,-3.0,-422.60003412343264
+[18:11:12] [Server thread/INFO]: tofu6465 tried to swim in lava
+[18:13:53] [Server thread/WARN]: tofu6465 moved too quickly! -80.79404616212467,-3.0,-422.8206494530439
+[18:19:57] [Server thread/INFO]: tofu6465 tried to swim in lava
+[18:24:43] [Server thread/WARN]: tofu6465 moved too quickly! -81.37062351252135,-3.0,-422.44316350583716
+[18:27:26] [Server thread/INFO]: tofu6465 tried to swim in lava
+[18:28:01] [Server thread/WARN]: tofu6465 moved too quickly! -81.38675697713427,-3.0,-422.4434327044609
+[18:28:58] [Server thread/INFO]: tofu6465 tried to swim in lava
+[18:29:38] [Server thread/WARN]: tofu6465 moved too quickly! -81.56075680949807,-3.0,-422.48799587843473
+[18:39:24] [Server thread/INFO]: tofu6465 tried to swim in lava
+[18:40:37] [Server thread/WARN]: tofu6465 moved too quickly! -81.64290854374151,-3.0,-422.26560688944636
+[18:55:08] [Server thread/INFO]: tofu6465 burned to death
+[18:55:17] [Server thread/INFO]: tofu6465 lost connection: Disconnected
+[18:55:17] [Server thread/INFO]: tofu6465 left the game
+[19:10:31] [User Authenticator #4/INFO]: UUID of player tofu6465 is 7bf2d348-fc1f-4a41-94e7-51036d1ec92a
+[19:10:32] [Server thread/INFO]: tofu6465[/75.132.169.76:64705] logged in with entity id 68376 at ([world]56.838523848248066, 72.0, 485.81622198800954)
+[19:11:42] [Server thread/INFO]: tofu6465 lost connection: Disconnected
+[19:11:42] [Server thread/INFO]: tofu6465 left the game
