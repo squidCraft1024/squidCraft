@@ -1,167 +1,59 @@
-[13:07:57] [Server thread/INFO]: Starting minecraft server version 1.10.2
-[13:07:57] [Server thread/INFO]: Loading properties
-[13:07:57] [Server thread/INFO]: Default game type: SURVIVAL
-[13:07:58] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-570526c-c1b529e (MC: 1.10.2) (Implementing API version 1.10.2-R0.1-SNAPSHOT)
-[13:07:58] [Server thread/INFO]: Debug logging is disabled
-[13:07:58] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[13:07:58] [Server thread/INFO]: Using 4 threads for Netty based IO
-[13:07:58] [Server thread/INFO]: Generating keypair
-[13:07:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:07:58] [Server thread/INFO]: Using default channel type
-[13:07:58] [Server thread/INFO]: Set PluginClassLoader as parallel capable
-[13:07:58] [Server thread/INFO]: [dynmap] Loading dynmap v2.3-1142
-[13:07:58] [Server thread/INFO]: [dynmap] version=git-Spigot-570526c-c1b529e (MC: 1.10.2)
-[13:07:58] [Server thread/INFO]: [dynmap] Mod Support API available
-[13:07:58] [Server thread/INFO]: **** Beginning UUID conversion, this may take A LONG time ****
-[13:07:58] [Server thread/INFO]: Preparing level "world"
-[13:07:58] [Server thread/INFO]: -------- World Settings For [world] --------
-[13:07:58] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:07:58] [Server thread/INFO]: Item Merge Radius: 2.5
-[13:07:58] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:07:58] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:07:58] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[13:07:58] [Server thread/INFO]: Experience Merge Radius: 3.0
-[13:07:58] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:07:58] [Server thread/INFO]: View Distance: 10
-[13:07:58] [Server thread/INFO]: Max Entity Collisions: 8
-[13:07:58] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[13:07:58] [Server thread/INFO]: Mob Spawn Range: 4
-[13:07:58] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:07:58] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:07:58] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:07:58] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:07:58] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:07:58] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:07:58] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:07:58] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[13:07:58] [Server thread/INFO]: Vine Growth Modifier: 100%
-[13:07:58] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[13:07:58] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:07:58] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[13:07:58] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[13:07:58] [Server thread/INFO]: Random Lighting Updates: false
-[13:07:58] [Server thread/INFO]: Structure Info Saving: true
-[13:07:58] [Server thread/INFO]: Max TNT Explosions: 100
-[13:07:58] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[13:07:59] [Server thread/INFO]: -------- World Settings For [world_nether] --------
-[13:07:59] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:07:59] [Server thread/INFO]: Item Merge Radius: 2.5
-[13:07:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:07:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:07:59] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[13:07:59] [Server thread/INFO]: Experience Merge Radius: 3.0
-[13:07:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:07:59] [Server thread/INFO]: View Distance: 10
-[13:07:59] [Server thread/INFO]: Max Entity Collisions: 8
-[13:07:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[13:07:59] [Server thread/INFO]: Mob Spawn Range: 4
-[13:07:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:07:59] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:07:59] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:07:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:07:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:07:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:07:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:07:59] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[13:07:59] [Server thread/INFO]: Vine Growth Modifier: 100%
-[13:07:59] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[13:07:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:07:59] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[13:07:59] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[13:07:59] [Server thread/INFO]: Random Lighting Updates: false
-[13:07:59] [Server thread/INFO]: Structure Info Saving: true
-[13:07:59] [Server thread/INFO]: Max TNT Explosions: 100
-[13:07:59] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[13:07:59] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
-[13:07:59] [Server thread/INFO]: Item Despawn Rate: 6000
-[13:07:59] [Server thread/INFO]: Item Merge Radius: 2.5
-[13:07:59] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
-[13:07:59] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
-[13:07:59] [Server thread/INFO]: Arrow Despawn Rate: 1200
-[13:07:59] [Server thread/INFO]: Experience Merge Radius: 3.0
-[13:07:59] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
-[13:07:59] [Server thread/INFO]: View Distance: 10
-[13:07:59] [Server thread/INFO]: Max Entity Collisions: 8
-[13:07:59] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
-[13:07:59] [Server thread/INFO]: Mob Spawn Range: 4
-[13:07:59] [Server thread/INFO]: Cactus Growth Modifier: 100%
-[13:07:59] [Server thread/INFO]: Cane Growth Modifier: 100%
-[13:07:59] [Server thread/INFO]: Melon Growth Modifier: 100%
-[13:07:59] [Server thread/INFO]: Mushroom Growth Modifier: 100%
-[13:07:59] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
-[13:07:59] [Server thread/INFO]: Sapling Growth Modifier: 100%
-[13:07:59] [Server thread/INFO]: Wheat Growth Modifier: 100%
-[13:07:59] [Server thread/INFO]: NetherWart Growth Modifier: 100%
-[13:07:59] [Server thread/INFO]: Vine Growth Modifier: 100%
-[13:07:59] [Server thread/INFO]: Cocoa Growth Modifier: 100%
-[13:07:59] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[13:07:59] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
-[13:07:59] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
-[13:07:59] [Server thread/INFO]: Random Lighting Updates: false
-[13:07:59] [Server thread/INFO]: Structure Info Saving: true
-[13:07:59] [Server thread/INFO]: Max TNT Explosions: 100
-[13:07:59] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[13:07:59] [Server thread/INFO]: Preparing start region for level 0 (Seed: -2456426321376412881)
-[13:08:00] [Server thread/INFO]: Preparing spawn area: 35%
-[13:08:00] [Server thread/INFO]: Preparing start region for level 1 (Seed: -8316523345067563926)
-[13:08:01] [Server thread/INFO]: Preparing spawn area: 91%
-[13:08:01] [Server thread/INFO]: Preparing start region for level 2 (Seed: -8316523345067563926)
-[13:08:02] [Server thread/INFO]: [dynmap] Enabling dynmap v2.3-1142
-[13:08:02] [Server thread/INFO]: [dynmap] Added 1 custom biome mappings
-[13:08:02] [Server thread/INFO]: [dynmap] Using Bukkit Permissions (superperms) for access control
-[13:08:02] [Server thread/INFO]: [dynmap] Web interface permissions only available for online users
-[13:08:02] [Server thread/INFO]: [dynmap] Mod Support processing completed
-[13:08:03] [Server thread/INFO]: [dynmap] Loaded 23 shaders.
-[13:08:03] [Server thread/INFO]: [dynmap] Loaded 82 perspectives.
-[13:08:03] [Server thread/INFO]: [dynmap] Loaded 14 lightings.
-[13:08:03] [Server thread/INFO]: [dynmap] Web server started on address 0.0.0.0:8123
-[13:08:03] [Server thread/INFO]: [dynmap] version 2.3-1142 is enabled - core version 2.3-2074
-[13:08:03] [Server thread/INFO]: [dynmap] Loaded 3 maps of world 'world'.
-[13:08:03] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_nether'.
-[13:08:03] [Server thread/INFO]: [dynmap] Loaded 2 maps of world 'world_the_end'.
-[13:08:03] [Server thread/INFO]: [dynmap] Enabled
-[13:08:03] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[13:08:03] [Server thread/INFO]: Done (4.695s)! For help, type "help" or "?"
-[13:08:11] [User Authenticator #1/INFO]: UUID of player ubermensch1024 is 93b16a1b-b293-490a-8a7a-48a8fbf30f12
-[13:08:11] [Server thread/INFO]: ubermensch1024[/127.0.0.1:49853] logged in with entity id 270 at ([world]-127.72190939173987, 12.0, 47.60788241769004)
-[13:09:09] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
-[13:10:26] [User Authenticator #2/INFO]: UUID of player tofu6465 is 7bf2d348-fc1f-4a41-94e7-51036d1ec92a
-[13:10:27] [Server thread/INFO]: tofu6465[/75.132.169.76:62383] logged in with entity id 2427 at ([world]-4.672017133411668, 44.0, 911.934802354673)
-[15:13:36] [Server thread/INFO]: tofu6465 has just earned the achievement [We Need to Go Deeper]
-[15:13:39] [Server thread/WARN]: tofu6465 moved too quickly! -81.55373768393773,-3.0,-422.4725985924276
-[15:28:06] [Server thread/INFO]: tofu6465 has just earned the achievement [Return to Sender]
-[15:33:15] [Server thread/WARN]: tofu6465 moved too quickly! 81.6192332667761,3.0,422.1862661565241
-[15:33:38] [Server thread/INFO]: tofu6465 lost connection: Disconnected
-[15:33:38] [Server thread/INFO]: tofu6465 left the game
-[16:40:38] [Server thread/INFO]: ubermensch1024 lost connection: Disconnected
-[16:40:38] [Server thread/INFO]: ubermensch1024 left the game
-[17:06:12] [User Authenticator #3/INFO]: UUID of player tofu6465 is 7bf2d348-fc1f-4a41-94e7-51036d1ec92a
-[17:06:12] [Server thread/INFO]: tofu6465[/75.132.169.76:63816] logged in with entity id 57494 at ([world]59.30142865912617, 64.0, 486.4095939636838)
-[17:07:35] [Server thread/WARN]: tofu6465 moved too quickly! -81.02359519890666,-3.0,-422.7372311995303
-[17:24:40] [Server thread/INFO]: tofu6465 was slain by Zombie
-[17:26:21] [Server thread/WARN]: tofu6465 moved too quickly! -81.13452012471731,-3.0,-422.53031491601826
-[17:28:10] [Server thread/WARN]: tofu6465 moved too quickly! 81.52659429072449,3.0,422.274921852509
-[17:31:54] [Server thread/WARN]: tofu6465 moved too quickly! -81.44134665567705,-3.0,-422.2015925826761
-[17:37:02] [Server thread/INFO]: tofu6465 tried to swim in lava to escape Zombie
-[17:46:31] [Server thread/WARN]: tofu6465 moved wrongly!
-[17:47:16] [Server thread/WARN]: tofu6465 moved wrongly!
-[18:08:56] [Server thread/WARN]: tofu6465 moved too quickly! -81.14633150194453,-3.0,-422.51836903239473
-[18:10:16] [Server thread/WARN]: tofu6465 moved too quickly! 81.8047660229702,3.0,422.29712298255305
-[18:10:29] [Server thread/WARN]: tofu6465 moved too quickly! -81.25336837691627,-3.0,-422.60003412343264
-[18:11:12] [Server thread/INFO]: tofu6465 tried to swim in lava
-[18:13:53] [Server thread/WARN]: tofu6465 moved too quickly! -80.79404616212467,-3.0,-422.8206494530439
-[18:19:57] [Server thread/INFO]: tofu6465 tried to swim in lava
-[18:24:43] [Server thread/WARN]: tofu6465 moved too quickly! -81.37062351252135,-3.0,-422.44316350583716
-[18:27:26] [Server thread/INFO]: tofu6465 tried to swim in lava
-[18:28:01] [Server thread/WARN]: tofu6465 moved too quickly! -81.38675697713427,-3.0,-422.4434327044609
-[18:28:58] [Server thread/INFO]: tofu6465 tried to swim in lava
-[18:29:38] [Server thread/WARN]: tofu6465 moved too quickly! -81.56075680949807,-3.0,-422.48799587843473
-[18:39:24] [Server thread/INFO]: tofu6465 tried to swim in lava
-[18:40:37] [Server thread/WARN]: tofu6465 moved too quickly! -81.64290854374151,-3.0,-422.26560688944636
-[18:55:08] [Server thread/INFO]: tofu6465 burned to death
-[18:55:17] [Server thread/INFO]: tofu6465 lost connection: Disconnected
-[18:55:17] [Server thread/INFO]: tofu6465 left the game
-[19:10:31] [User Authenticator #4/INFO]: UUID of player tofu6465 is 7bf2d348-fc1f-4a41-94e7-51036d1ec92a
-[19:10:32] [Server thread/INFO]: tofu6465[/75.132.169.76:64705] logged in with entity id 68376 at ([world]56.838523848248066, 72.0, 485.81622198800954)
-[19:11:42] [Server thread/INFO]: tofu6465 lost connection: Disconnected
-[19:11:42] [Server thread/INFO]: tofu6465 left the game
+[00:02:50] [Server thread/INFO]: DrBananasDDS has just earned the achievement [Bake Bread]
+[00:16:37] [Server thread/INFO]: DrBananasDDS was shot by Skeleton
+[00:38:43] [User Authenticator #10/INFO]: UUID of player Dejitaru_Davis is 496c3594-d608-4034-a0d9-3c25d04ee08a
+[00:38:43] [Server thread/INFO]: Dejitaru_Davis[/75.132.211.32:52515] logged in with entity id 224686 at ([world]-129.15655698976744, 12.0, 45.50918361003634)
+[00:40:45] [Async Chat Thread - #29/INFO]: <DrBananasDDS> andy, some weirdo carved out the inside of a ahill over there
+[00:40:50] [Async Chat Thread - #29/INFO]: <DrBananasDDS> presumably to gather dirt
+[00:41:00] [Async Chat Thread - #29/INFO]: <Dejitaru_Davis> Which hill?
+[00:41:09] [Async Chat Thread - #29/INFO]: <DrBananasDDS> that one over there
+[00:41:11] [Async Chat Thread - #29/INFO]: <DrBananasDDS> with the doors
+[00:41:15] [Async Chat Thread - #29/INFO]: <DrBananasDDS> across the crevice
+[00:41:24] [Async Chat Thread - #29/INFO]: <Dejitaru_Davis> Probably Ben...
+[00:41:39] [Async Chat Thread - #29/INFO]: <DrBananasDDS> lol why
+[00:41:59] [Async Chat Thread - #29/INFO]: <Dejitaru_Davis> His house used to be in that hill before the map reset, I think...
+[00:42:11] [Async Chat Thread - #29/INFO]: <Dejitaru_Davis> That's why I'm guessing it's him, anyway.
+[00:42:17] [Async Chat Thread - #29/INFO]: <DrBananasDDS> lol interesting
+[00:42:45] [Async Chat Thread - #29/INFO]: <Dejitaru_Davis> How do you like my farm design? :D
+[00:43:06] [Async Chat Thread - #29/INFO]: <DrBananasDDS> I love it
+[00:43:21] [Async Chat Thread - #29/INFO]: <DrBananasDDS> I'm looking into adding some sugarcane
+[00:43:35] [Async Chat Thread - #29/INFO]: <Dejitaru_Davis> Awesome!
+[00:43:44] [Async Chat Thread - #29/INFO]: <Dejitaru_Davis> I was gonna start a cocoa bean area, too...
+[00:47:23] [Async Chat Thread - #30/INFO]: <DrBananasDDS> XD
+[00:47:27] [Async Chat Thread - #30/INFO]: <DrBananasDDS> whoosies
+[00:47:34] [Async Chat Thread - #30/INFO]: <Dejitaru_Davis> Just can't win tonight 9_9
+[00:48:14] [Async Chat Thread - #30/INFO]: <DrBananasDDS> hey man, you got some gates
+[00:48:21] [Async Chat Thread - #30/INFO]: <DrBananasDDS> actually lets sleep real quick
+[00:48:38] [Async Chat Thread - #30/INFO]: <DrBananasDDS> i can cut a tree down
+[00:48:50] [Async Chat Thread - #30/INFO]: <Dejitaru_Davis> There might be some in the boxes down here...
+[00:49:15] [Async Chat Thread - #30/INFO]: <DrBananasDDS> and I'm guessing that we need some pig pens and some chickens
+[00:49:33] [Async Chat Thread - #30/INFO]: <Dejitaru_Davis> We do.
+[00:49:43] [Async Chat Thread - #30/INFO]: <Dejitaru_Davis> We had some chickens before the server wipe...
+[00:50:14] [Async Chat Thread - #30/INFO]: <DrBananasDDS> fuck wrong wood
+[00:50:30] [Async Chat Thread - #30/INFO]: <Dejitaru_Davis> Oh, right, all the woods different now.
+[00:50:44] [Async Chat Thread - #30/INFO]: <Dejitaru_Davis> You need oak to match the other fences...
+[00:50:51] [Async Chat Thread - #30/INFO]: <Dejitaru_Davis> You can just grab some inside!
+[00:55:28] [Async Chat Thread - #31/INFO]: <DrBananasDDS> XD oh fuck
+[00:55:38] [Async Chat Thread - #31/INFO]: <DrBananasDDS> apparently trees can burst through the ground!
+[00:55:56] [Async Chat Thread - #31/INFO]: <Dejitaru_Davis> ...That's new.
+[00:56:10] [Async Chat Thread - #31/INFO]: <DrBananasDDS> well I started an underground tree farm because why not
+[00:56:20] [Async Chat Thread - #31/INFO]: <DrBananasDDS> but that's going to have to go if its gonna do that
+[00:56:23] [Async Chat Thread - #31/INFO]: <DrBananasDDS> or go deeper
+[00:56:33] [Async Chat Thread - #31/INFO]: <Dejitaru_Davis> Justin has one going underground....
+[00:56:54] [Async Chat Thread - #31/INFO]: <DrBananasDDS> ugh!
+[00:57:26] [Async Chat Thread - #31/INFO]: <DrBananasDDS> late to the party
+[00:57:58] [Async Chat Thread - #31/INFO]: <DrBananasDDS> also, holy naners its 1
+[00:58:03] [Async Chat Thread - #31/INFO]: <DrBananasDDS> I should go to sleep =P
+[00:59:28] [Server thread/INFO]: DrBananasDDS lost connection: Disconnected
+[00:59:28] [Server thread/INFO]: DrBananasDDS left the game
+[01:24:52] [Server thread/WARN]: Dejitaru_Davis moved too quickly! -81.08949533893116,-3.0,-422.5559650185942
+[01:27:26] [Server thread/INFO]: Dejitaru_Davis burned to death
+[01:27:47] [Server thread/WARN]: Dejitaru_Davis moved too quickly! -81.93101758806415,-3.0,-422.2621038564827
+[01:29:11] [Server thread/INFO]: Dejitaru_Davis fell from a high place
+[01:29:28] [Server thread/WARN]: Dejitaru_Davis moved too quickly! -81.0847099369631,-3.0,-422.56317441621496
+[01:30:11] [Server thread/INFO]: Dejitaru_Davis fell from a high place
+[01:30:37] [Server thread/WARN]: Dejitaru_Davis moved too quickly! -81.31056605719604,-3.0,-422.421077415997
+[01:30:53] [Server thread/INFO]: Dejitaru_Davis tried to swim in lava
+[01:31:10] [Server thread/WARN]: Dejitaru_Davis moved too quickly! -80.99178143972516,-3.0,-422.65620401856734
+[01:31:52] [Server thread/INFO]: Dejitaru_Davis fell from a high place
+[01:34:37] [Server thread/INFO]: Dejitaru_Davis lost connection: Disconnected
+[01:34:37] [Server thread/INFO]: Dejitaru_Davis left the game
