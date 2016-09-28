@@ -1,58 +1,46 @@
-[10:30:30] [User Authenticator #14/INFO]: UUID of player tofu6465 is 7bf2d348-fc1f-4a41-94e7-51036d1ec92a
-[10:30:30] [Server thread/INFO]: tofu6465[/75.132.169.76:60689] logged in with entity id 292147 at ([world]60.5319209339355, 64.0, 484.2023814309136)
-[12:14:02] [Server thread/WARN]: tofu6465 moved too quickly! -81.239696798123,-3.0,-422.53861828730965
-[12:36:34] [Server thread/INFO]: tofu6465 has just earned the achievement [Into Fire]
-[12:42:39] [Server thread/WARN]: tofu6465 moved too quickly! 81.73488357409117,3.0,422.7099512345182
-[13:00:23] [Server thread/INFO]: tofu6465 lost connection: Disconnected
-[13:00:23] [Server thread/INFO]: tofu6465 left the game
-[13:57:35] [User Authenticator #15/INFO]: UUID of player tofu6465 is 7bf2d348-fc1f-4a41-94e7-51036d1ec92a
-[13:57:35] [Server thread/INFO]: tofu6465[/75.132.169.76:62162] logged in with entity id 309770 at ([world]56.75424166546824, 68.0, 487.6077610358143)
-[14:18:46] [Server thread/WARN]: tofu6465 moved wrongly!
-[14:23:45] [Server thread/INFO]: tofu6465 drowned
-[15:08:21] [Server thread/INFO]: tofu6465 has just earned the achievement [Local Brewery]
-[16:04:02] [Server thread/INFO]: tofu6465 was killed by Guardian using magic
-[16:05:41] [Server thread/INFO]: tofu6465 drowned
-[16:07:25] [Server thread/INFO]: tofu6465 drowned
-[16:09:13] [Server thread/INFO]: tofu6465 drowned
-[16:10:51] [Server thread/INFO]: tofu6465 drowned whilst trying to escape Guardian
-[16:27:36] [Server thread/INFO]: tofu6465 was slain by Guardian
-[17:54:02] [Server thread/INFO]: tofu6465 has just earned the achievement [Delicious Fish]
-[18:25:43] [Server thread/WARN]: tofu6465 moved too quickly! -81.4897174357362,-3.0,-422.5552982214403
-[19:01:38] [Server thread/WARN]: tofu6465 moved too quickly! 81.82463955944677,3.0,422.5567641327231
-[19:20:23] [User Authenticator #16/INFO]: UUID of player Duckmaster09 is 01529682-32c6-4239-bec9-ead0a1bf09fd
-[19:20:23] [Server thread/INFO]: Duckmaster09[/75.132.209.77:53978] logged in with entity id 356766 at ([world_nether]527.6993103922108, 74.0, -121.3040988639337)
-[19:20:29] [Async Chat Thread - #32/INFO]: <tofu6465> hey
-[19:20:32] [Async Chat Thread - #32/INFO]: <Duckmaster09> hey
-[19:20:45] [Async Chat Thread - #32/INFO]: <Duckmaster09> you go in the fortress?
-[19:20:47] [Async Chat Thread - #32/INFO]: <tofu6465> so i explored the fortress and found the blaze spawner
-[19:20:55] [Async Chat Thread - #32/INFO]: <tofu6465> i put up signs
-[19:21:11] [Async Chat Thread - #32/INFO]: <tofu6465> also apprently ghasts can shoot fire and kill the portal.
-[19:21:17] [Async Chat Thread - #32/INFO]: <Duckmaster09> yep
-[19:21:20] [Async Chat Thread - #32/INFO]: <tofu6465> so always keep a flint and stell in the chest
-[19:21:29] [Async Chat Thread - #32/INFO]: <tofu6465> there is one now
-[19:21:49] [Async Chat Thread - #32/INFO]: <tofu6465> also i have a brewing station if you need to use before you build your own
-[19:21:51] [Server thread/INFO]: Duckmaster09 has just earned the achievement [Into Fire]
-[19:22:02] [Async Chat Thread - #32/INFO]: <Duckmaster09> why do u have golden armor lmao
-[19:22:19] [Async Chat Thread - #32/INFO]: <tofu6465> it was looted and i stuck it there
-[19:22:23] [Async Chat Thread - #32/INFO]: <Duckmaster09> nice
-[19:24:10] [Server thread/INFO]: [Server] good evening creatures who inhabit me. :D
-[19:24:17] [Async Chat Thread - #33/INFO]: <Duckmaster09> fuck u server
-[19:24:37] [Async Chat Thread - #33/INFO]: <tofu6465> so i take it you found the blaze spawn
-[19:24:41] [Async Chat Thread - #33/INFO]: <Duckmaster09> nope
-[19:24:45] [Async Chat Thread - #33/INFO]: <Duckmaster09> actually just killed one outside
-[19:24:50] [Async Chat Thread - #33/INFO]: <tofu6465> ah
-[19:25:09] [Async Chat Thread - #33/INFO]: <tofu6465> well i put signs
-[19:25:21] [Async Chat Thread - #33/INFO]: <tofu6465> was also hunting ghasts
-[19:25:29] [Server thread/WARN]: Duckmaster09 moved too quickly! 81.19301857319763,3.0,422.6662174785887
-[19:25:41] [Async Chat Thread - #33/INFO]: <Duckmaster09> nice path but I may have shit myself
-[19:25:50] [Async Chat Thread - #33/INFO]: <tofu6465> yeah i know
-[19:26:06] [Async Chat Thread - #33/INFO]: <tofu6465> i have walked it a few times
-[19:26:17] [Async Chat Thread - #33/INFO]: <Duckmaster09> yeah it's not too bad
-[19:26:18] [Async Chat Thread - #33/INFO]: <tofu6465> once to get a flint and steel cause the portal was down
-[19:26:28] [Async Chat Thread - #33/INFO]: <Duckmaster09> i'm gonna widen it in a little bit though
-[19:26:35] [Async Chat Thread - #33/INFO]: <tofu6465> ok
-[19:26:40] [Async Chat Thread - #33/INFO]: <tofu6465> it was a rought path
-[19:26:50] [Async Chat Thread - #33/INFO]: <Duckmaster09> it's really good for a rough path though
-[19:27:01] [Server thread/INFO]: [Server] don't make me kick you for your slander! :P
-[19:27:23] [Async Chat Thread - #33/INFO]: <Duckmaster09> THERE ARE NO RULES! ANARCHY!
-[19:28:00] [Server thread/INFO]: com.mojang.authlib.GameProfile@7b9d46e9[id=<null>,name=ubermensch1024,properties={},legacy=false] (/127.0.0.1:54349) lost connection: Disconnected
+[01:00:50] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:00:55] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:02:58] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:03:05] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:03:34] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:03:40] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:03:43] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:03:47] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:03:53] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:03:58] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:11:57] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:12:02] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:12:23] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:12:26] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:12:32] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:12:36] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:14:52] [Server thread/WARN]: Horse moved wrongly!
+[01:17:49] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:17:51] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:17:54] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:17:57] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:17:59] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:37:42] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:37:46] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:37:49] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:37:54] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:37:57] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:39:57] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:40:01] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:40:06] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:40:10] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:40:13] [Server thread/WARN]: tofu6465 moved wrongly!
+[01:45:24] [Server thread/INFO]: tofu6465 lost connection: Disconnected
+[01:45:24] [Server thread/INFO]: tofu6465 left the game
+[16:27:41] [User Authenticator #19/INFO]: UUID of player tofu6465 is 7bf2d348-fc1f-4a41-94e7-51036d1ec92a
+[16:27:41] [Server thread/INFO]: tofu6465[/75.132.169.76:50836] logged in with entity id 438331 at ([world]60.82733506435455, 64.0, 483.90933702070686)
+[16:39:33] [Server thread/INFO]: tofu6465 lost connection: Disconnected
+[16:39:33] [Server thread/INFO]: tofu6465 left the game
+[17:45:01] [User Authenticator #20/INFO]: UUID of player Duckmaster09 is 01529682-32c6-4239-bec9-ead0a1bf09fd
+[17:45:01] [Server thread/INFO]: Duckmaster09[/75.132.209.77:55668] logged in with entity id 441019 at ([world_nether]5.669131101163108, 65.875, 56.17716090580712)
+[17:45:27] [Server thread/WARN]: Duckmaster09 moved too quickly! 81.44008590924054,3.0,422.74327629532434
+[17:56:00] [Server thread/WARN]: Duckmaster09 moved too quickly! -81.19440367806388,-3.0,-422.83174281206556
+[18:30:03] [Server thread/INFO]: Duckmaster09 lost connection: Disconnected
+[18:30:03] [Server thread/INFO]: Duckmaster09 left the game
+[18:30:19] [User Authenticator #21/INFO]: UUID of player tofu6465 is 7bf2d348-fc1f-4a41-94e7-51036d1ec92a
+[18:30:20] [Server thread/INFO]: tofu6465[/75.132.169.76:52746] logged in with entity id 448643 at ([world]57.465366269516004, 64.0, 480.48373933348046)
