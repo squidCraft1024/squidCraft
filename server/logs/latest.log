@@ -6,3 +6,9 @@
 [13:57:59] [Server thread/INFO]: tofu6465[/75.132.169.76:58187] logged in with entity id 2324 at ([world]55.57738220535023, 64.0, 487.459358829254)
 [13:59:42] [Server thread/INFO]: tofu6465 lost connection: Disconnected
 [13:59:42] [Server thread/INFO]: tofu6465 left the game
+[18:56:24] [User Authenticator #6/INFO]: UUID of player ubermensch1024 is 93b16a1b-b293-490a-8a7a-48a8fbf30f12
+[18:56:24] [Server thread/INFO]: ubermensch1024[/127.0.0.1:55108] logged in with entity id 2750 at ([world]-194.155169478599, 63.0, 62.25425656663164)
+[18:57:37] [Server thread/INFO]: ubermensch1024 lost connection: Disconnected
+[18:57:37] [Server thread/INFO]: ubermensch1024 left the game
+[18:58:20] [Server thread/INFO]: Saving...
+[18:58:20] [Server thread/INFO]: Saved the world
