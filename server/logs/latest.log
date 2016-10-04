@@ -4,3 +4,7 @@
 [00:28:32] [Server thread/WARN]: Dejitaru_Davis moved too quickly! 81.53417262516115,3.0,423.04525861204905
 [00:29:01] [Server thread/WARN]: Dejitaru_Davis moved too quickly! -81.34543474188345,-3.0,-422.4983362815621
 [00:47:16] [Server thread/WARN]: Dejitaru_Davis moved too quickly! 81.799857392078,3.0,422.28122286979857
+[01:00:13] [Server thread/INFO]: Dejitaru_Davis lost connection: Disconnected
+[01:00:13] [Server thread/INFO]: Dejitaru_Davis left the game
+[01:40:51] [User Authenticator #9/INFO]: UUID of player Dejitaru_Davis is 496c3594-d608-4034-a0d9-3c25d04ee08a
+[01:40:51] [Server thread/INFO]: Dejitaru_Davis[/75.132.211.32:51367] logged in with entity id 407321 at ([world]-130.3661449737845, 63.5625, 43.70693783433671)
