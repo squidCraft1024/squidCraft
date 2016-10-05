@@ -13,3 +13,10 @@
 [14:32:52] [User Authenticator #10/INFO]: UUID of player Dejitaru_Davis is 496c3594-d608-4034-a0d9-3c25d04ee08a
 [14:32:52] [Server thread/INFO]: Dejitaru_Davis[/75.132.211.32:53959] logged in with entity id 483766 at ([world]-130.3940619710063, 63.5625, 44.15191097143506)
 [14:50:30] [Server thread/INFO]: Dejitaru_Davis was shot by Skeleton
+[19:16:36] [Server thread/INFO]: com.mojang.authlib.GameProfile@f1f6d7d[id=<null>,name=ubermensch1024,properties={},legacy=false] (/10.100.170.150:56407) lost connection: Disconnected
+[19:17:26] [User Authenticator #11/INFO]: UUID of player ubermensch1024 is 93b16a1b-b293-490a-8a7a-48a8fbf30f12
+[19:17:26] [Server thread/INFO]: ubermensch1024[/10.100.170.150:56594] logged in with entity id 576350 at ([world]-131.26704145941954, 63.0, 42.27556475421344)
+[19:39:30] [Async Chat Thread - #16/INFO]: <ubermensch1024> Hey, you're not afk now! :P
+[19:39:31] [Async Chat Thread - #16/INFO]: <Dejitaru_Davis> Yo!
+[19:39:49] [Async Chat Thread - #16/INFO]: <Dejitaru_Davis> Yeah, Photoshop was loading slow so I popped back over here lol
+[19:46:59] [Async Chat Thread - #17/INFO]: <ubermensch1024> Don't jump down the mine.
