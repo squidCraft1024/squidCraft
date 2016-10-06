@@ -87,3 +87,11 @@
 [21:05:51] [Server thread/INFO]: DrBananasDDS left the game
 [21:08:05] [User Authenticator #16/INFO]: UUID of player Dejitaru_Davis is 496c3594-d608-4034-a0d9-3c25d04ee08a
 [21:08:05] [Server thread/INFO]: Dejitaru_Davis[/75.132.211.32:51017] logged in with entity id 660710 at ([world]-127.35166977136141, 63.0, 45.61186620271913)
+[22:02:52] [Server thread/WARN]: Dejitaru_Davis was kicked for floating too long!
+[22:02:52] [Server thread/INFO]: Dejitaru_Davis lost connection: Flying is not enabled on this server
+[22:02:52] [Server thread/INFO]: Dejitaru_Davis left the game
+[22:02:52] [Server thread/WARN]: handleDisconnection() called twice
+[22:02:57] [Server thread/INFO]: com.mojang.authlib.GameProfile@16c9df60[id=<null>,name=Dejitaru_Davis,properties={},legacy=false] (/75.132.211.32:55181) lost connection: Disconnected
+[22:03:03] [Server thread/INFO]: com.mojang.authlib.GameProfile@49106caa[id=<null>,name=Dejitaru_Davis,properties={},legacy=false] (/75.132.211.32:55205) lost connection: Disconnected
+[22:04:25] [User Authenticator #17/INFO]: UUID of player Dejitaru_Davis is 496c3594-d608-4034-a0d9-3c25d04ee08a
+[22:04:25] [Server thread/INFO]: Dejitaru_Davis[/75.132.211.32:55421] logged in with entity id 706834 at ([world]-131.5, 63.0, 42.5)
