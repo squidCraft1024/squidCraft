@@ -126,3 +126,8 @@
 [19:09:26] [Server thread/INFO]: Done (4.967s)! For help, type "help" or "?"
 [19:12:43] [Server thread/INFO]: com.mojang.authlib.GameProfile@2f12ad08[id=<null>,name=ubermensch1024,properties={},legacy=false] (/10.100.170.150:55888) lost connection: Disconnected
 [19:33:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@76bbc0d3[id=<null>,name=ubermensch1024,properties={},legacy=false] (/10.100.170.150:58662) lost connection: Disconnected
+[20:03:09] [User Authenticator #1/INFO]: UUID of player ubermensch1024 is 93b16a1b-b293-490a-8a7a-48a8fbf30f12
+[20:03:10] [Server thread/INFO]: ubermensch1024[/10.100.170.150:63010] logged in with entity id 413 at ([world]-128.56662957587835, 12.0, 52.48319094655962)
+[20:07:16] [Dynmap Render Thread/INFO]: [dynmap] Loading default resource pack
+[20:32:16] [Server thread/INFO]: ubermensch1024 lost connection: Disconnected
+[20:32:16] [Server thread/INFO]: ubermensch1024 left the game
