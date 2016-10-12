@@ -1,3 +1,7 @@
 [18:25:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@1b0b2fed[id=<null>,name=ubermensch1024,properties={},legacy=false] (/10.100.170.150:61796) lost connection: Disconnected
 [18:42:16] [User Authenticator #4/INFO]: UUID of player ubermensch1024 is 93b16a1b-b293-490a-8a7a-48a8fbf30f12
 [18:42:16] [Server thread/INFO]: ubermensch1024[/10.100.170.150:64276] logged in with entity id 6940 at ([world]-130.0170316415487, 63.0, 42.49371808004284)
+[19:23:38] [Server thread/INFO]: ubermensch1024 lost connection: Disconnected
+[19:23:38] [Server thread/INFO]: ubermensch1024 left the game
+[19:23:46] [User Authenticator #5/INFO]: UUID of player ubermensch1024 is 93b16a1b-b293-490a-8a7a-48a8fbf30f12
+[19:23:46] [Server thread/INFO]: ubermensch1024[/10.100.170.150:53351] logged in with entity id 44593 at ([world]-132.37462705038104, 149.86844189321445, 39.93337383015726)
